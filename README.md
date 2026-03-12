@@ -36,9 +36,13 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About ✨ leewookanh ✨ </h2>
 
 🚀 Platform/DevOps Engineer | over 4 years building large-scale distributed systems on AWS & GCP
+
 ⚙️ Terraform · Kubernetes · EKS/GKE · ArgoCD · Observability · CI/CD · VictoriaMetrics · Istio
+
 🏦 Currently @ TymeX (GoTyme Bank) — cloud migration, platform engineering, networking engineer
+
 🏆 CKA · AWS Solutions Architect · Top 1 AWS Security Jam 2023
+
 🎓 HCMUT — High Performance Systems
 📍 APAC | Open to opportunities
   
@@ -48,7 +52,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang" width="45" height="45/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="golang" width="45" height="45/">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 
